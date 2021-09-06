@@ -33,6 +33,7 @@ void View::mostrarMenuReportes()
                 laFarra.productosVendidosTipo();
             break;
             case 3:
+                laFarra.totalGanado();
             break;
             case 4:
                 laFarra.productosEnTienda();
